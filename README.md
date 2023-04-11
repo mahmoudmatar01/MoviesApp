@@ -1,6 +1,6 @@
 # moviesapp
 
-A new Flutter project.
+
 Movies App With Clean Achitecture
 
 ## Getting Started
