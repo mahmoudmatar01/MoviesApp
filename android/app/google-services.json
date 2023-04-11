@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656527834258",
+    "project_id": "moviesa-715e9",
+    "storage_bucket": "moviesa-715e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656527834258:android:7895cadcf6252d430b7a4b",
+        "android_client_info": {
+          "package_name": "org.Matar.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656527834258-8qj6e5g09hkup5pj5vk0fqvctmbprviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszwFtdlmwChhXTSajCL93qtVcTv_q0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656527834258-8qj6e5g09hkup5pj5vk0fqvctmbprviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
